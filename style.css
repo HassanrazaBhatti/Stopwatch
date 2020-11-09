@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+    text-align: center;
+}
+h2{
+    color: blanchedalmond;
+    display: inline-block;
+    width: 100px;
+    background-color: blue;
+}
+h1{
+    color: blue;
+}
